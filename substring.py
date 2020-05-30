@@ -1,4 +1,4 @@
-## find a substring in a string
+## find th occurence frequency of the substring in a string
 
 
 ##Taking input from the user
